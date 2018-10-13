@@ -4,3 +4,5 @@
 #
 #
 print ("hello world")
+$git config --global user.name "dingweiran28"P
+if this is ok 
